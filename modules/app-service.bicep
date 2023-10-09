@@ -1,4 +1,6 @@
-param location string = 'itwesteurope'
+// using italy (north europe) as the location for the app service plan and app service
+// as it is the only region that supports the B1 app service plan sku
+param location string = 'northeurope'
 param appServicePlanName string
 param appServiceAppName string
 param appServiceAPIAppName string
