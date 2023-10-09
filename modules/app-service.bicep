@@ -1,4 +1,4 @@
-param location string = resourceGroup().location
+param location string = 'itwesteurope'
 param appServicePlanName string
 param appServiceAppName string
 param appServiceAPIAppName string
