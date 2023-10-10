@@ -90,7 +90,7 @@ Secret name | Description | Learn more
 `DBPASS` | Password for the PostgreSQL server, configured as App Setting in the backend web server | [Environment variables and app settings in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/reference-app-settings?tabs=kudu%2Cdotnet)
 `DBUSER` | Username for the PostgreSQL server, configured as App Setting in the backend web server | [Environment variables and app settings in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/reference-app-settings?tabs=kudu%2Cdotnet)
 
-### GitHub variables
+### GitHub variables 
 
 The workflow uses the following GitHub variables:
 
