@@ -20,6 +20,12 @@
         "appServiceAppName": {
             "value": "mdrummond-fe-dev"
         },
+        "azureMonitorName": {
+        "value": "mdrummond-am-dev"
+        },
+        "appInsightsName": {
+        "value": "mdrummond-ai-dev"
+        },
         "location": {
             "value": "Central India"
         }

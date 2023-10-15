@@ -20,6 +20,12 @@
       "appServiceAppName": {
         "value": "mdrummond-fe-uat"
       },
+      "azureMonitorName": {
+        "value": "mdrummond-am-uat"
+      },
+      "appInsightsName": {
+        "value": "mdrummond-ai-uat"
+      },
       "location": {
         "value": "Central India"
       }
